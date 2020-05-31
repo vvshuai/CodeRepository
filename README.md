@@ -12,6 +12,6 @@
 ## 算法
 [leetcode题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/leetcode.md)
 <br>
-[剑指offer题解(]https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer.md)
+[剑指offer题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer.md)
 ## Spring全家桶
 ## Redis
