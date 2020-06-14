@@ -1,5 +1,5 @@
-# JavaRepository
-![vvshuai](https://github.com/vvshuai/JavaRepository/blob/master/%E5%9B%BE%E7%89%87/logo.png)
+# JavaRepository 
+
 ## Java基础
 [重写hashcode和equals](https://github.com/vvshuai/JavarRpository/blob/master/基础/hashcode.java)<br>
 [比较器就看这一篇](https://blog.csdn.net/weixin_40948587/article/details/106065153)
@@ -17,3 +17,5 @@
 [剑指offer题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer.md)
 ## Spring全家桶
 ## Redis
+
+![vvshuai](https://github.com/vvshuai/JavaRepository/blob/master/%E5%9B%BE%E7%89%87/logo.png)
