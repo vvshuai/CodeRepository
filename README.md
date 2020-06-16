@@ -1,3 +1,4 @@
+<img src="https://github.com/vvshuai/JavaRepository/blob/master/%E5%9B%BE%E7%89%87/logo.png" div align=right />
 # JavaRepository 
 
 ## Java基础
@@ -18,4 +19,3 @@
 ## Spring全家桶
 ## Redis
 
-![vvshuai](https://github.com/vvshuai/JavaRepository/blob/master/%E5%9B%BE%E7%89%87/logo.png)
