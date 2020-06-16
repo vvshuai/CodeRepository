@@ -1,4 +1,4 @@
-<img src="https://github.com/vvshuai/JavaRepository/blob/master/%E5%9B%BE%E7%89%87/logo.png" div align=right />
+<img src="https://github.com/vvshuai/JavaRepository/blob/master/%E5%9B%BE%E7%89%87/logo.png" div align=right /><br>
 # JavaRepository 
 
 ## Java基础
