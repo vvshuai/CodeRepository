@@ -6,7 +6,8 @@
 [比较器就看这一篇](https://blog.csdn.net/weixin_40948587/article/details/106065153)
 ## Java集合
 ## Java多线程
-[多线程交替打印字符串](https://github.com/vvshuai/JavaRepository/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B/1.md)
+[多线程交替打印字符串](https://github.com/vvshuai/JavaRepository/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B/1.md)<br>
+[使用synchronized加锁字符串有什么坑？](https://github.com/vvshuai/JavaRepository/blob/master/%E5%9F%BA%E7%A1%80/synchronized%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 ## JVM
 ## 设计模式
 [单例模式](https://github.com/vvshuai/JavarRpository/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
