@@ -11,3 +11,4 @@
 [最小栈](https://leetcode-cn.com/problems/min-stack/)|[题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E6%9C%80%E5%B0%8F%E6%A0%88.md)|
 [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md)|
 [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)|[题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)|
+[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
