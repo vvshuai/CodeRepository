@@ -19,6 +19,3 @@
 [剑指offer题解](https://github.com/vvshuai/JavaRepository/blob/master/leetcode/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer.md)
 <br>
 [几大排序算法，尽量可以手写](https://github.com/vvshuai/JavaRepository/blob/master/%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md)
-## Spring全家桶
-## Redis
-
