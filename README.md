@@ -20,3 +20,6 @@
 <br>
 [几大排序算法，尽量可以手写](https://github.com/vvshuai/JavaRepository/blob/master/%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F.md)
 ## 计算机网络
+
+## 文章收录
+[Java泛型和c++模版解释](https://ayayaya.cc/2021/09/14/parametric-poly/)
